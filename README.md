@@ -1,0 +1,1 @@
+This blog is powered by Chalk, a high quality, completely customizable, performant and 100% free blog template for Jekyll built by Nielsen Ramon. [Visit the repo](https://github.com/nielsenramon/chalk/).
