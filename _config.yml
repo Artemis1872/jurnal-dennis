@@ -85,4 +85,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
 paginate_path: /posts/page/:num/
-permalink: posts/:slug
+permalink: posts/:slug:output_ext
