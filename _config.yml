@@ -76,6 +76,9 @@ exclude:
   - README.md
   - vendor/
   - yarn.lock
+  - config.ru
+  - Procfile
+  - Rakefile
 plugins:
   - jekyll-assets
   - jekyll-paginate
